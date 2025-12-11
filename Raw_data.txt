@@ -1,140 +1,168 @@
-##Figure 2(a)		
-		
-	Δe (meV/atom)	Δe (kBT/atom)
-AA-Inclined	0	0
-AB-Serrated	1.1	0.048
-ABC	3.2	0.148
-AB-Staggered (zigzag)	5.3	0.22
-AB-Staggered (armchair)	6	0.232
-AA-Eclipsed	8.8	0.352
-		
-(inset)		
-	Δe (meV/atom)	Offset (Å)
-AA-Eclipsed	8.8	0
-AA-Inclined	0	1.3
-AB-Serrated	1.1	3
-AB-Staggered (armchair)	6	15.8
-AB-Staggered (zigzag)	5.3	17
-ABC	3.2	19.1
+## Figure 2(a)
+
+Stacking                  Δe (meV/atom)   Δe (kBT/atom)
+-------------------------------------------------------
+AA-Inclined                     0.0            0.000
+AB-Serrated                     1.1            0.048
+ABC                             3.2            0.148
+AB-Staggered (zigzag)           5.3            0.220
+AB-Staggered (armchair)         6.0            0.232
+AA-Eclipsed                     8.8            0.352
+
+
+## Figure 2(a) – inset
+
+Stacking                  Δe (meV/atom)   Offset (Å)
+----------------------------------------------------
+AA-Eclipsed                     8.8            0.0
+AA-Inclined                     0.0            1.3
+AB-Serrated                     1.1            3.0
+AB-Staggered (armchair)         6.0           15.8
+AB-Staggered (zigzag)           5.3           17.0
+ABC                             3.2           19.1
+
+
+## Figure 3(b)
+
+Stacking                  k_in-plane (W/m-K)      k_cross-plane (W/m-K)
+-----------------------------------------------------------------------
+AA-Inclined               0.78  ± 0.05            0.098 ± 0.007
+AB-Serrated               0.74  ± 0.05            0.140 ± 0.004
+ABC                       1.14  ± 0.055           0.082 ± 0.010
+AB-Staggered (zigzag)     0.87  ± 0.03            0.055 ± 0.009
+AB-Staggered (armchair)   1.02  ± 0.04            0.073 ± 0.009
+AA-Eclipsed               0.689 ± 0.065           0.089 ± 0.012
+
+
+## Figure 4(a) – In-plane E
+
+Stacking                  E (0 K, GPa)     E (300 K, GPa)
+---------------------------------------------------------
+AA-Inclined                    13.2              9.5
+AB-Serrated                    12.1              8.2
+ABC                            22.5             18.2
+AB-Staggered (zigzag)          17.3             13.3
+AB-Staggered (armchair)        16.5             12.1
+AA-Eclipsed                    10.1              6.6
+
+
+## Figure 4(b) – Cross-plane E
+
+Stacking                  E (0 K, GPa)     E (300 K, GPa)
+---------------------------------------------------------
+AA-Inclined                     6.2              4.8
+AB-Serrated                     6.6              5.4
+ABC                             5.2              2.7
+AB-Staggered (zigzag)           4.3              1.9
+AB-Staggered (armchair)         4.2              2.0
+AA-Eclipsed                     5.5              3.6
+
+
+## Figure 5(a)
+
+Stacking                  E_in-plane (GPa)   k_in-plane (W/m-K)
+----------------------------------------------------------------
+AA-Inclined                       9.5        0.78  ± 0.05
+AB-Serrated                       8.2        0.74  ± 0.05
+ABC                              18.2        1.14  ± 0.055
+AB-Staggered (zigzag)           12.1        0.87  ± 0.03
+AB-Staggered (armchair)         13.0        1.02  ± 0.04
+AA-Eclipsed                       6.6        0.689 ± 0.065
+
+
+## Figure 5(b)
+
+Stacking                  E_cross-plane (GPa)   k_cross-plane (W/m-K)
+---------------------------------------------------------------------
+AA-Inclined                         4.8         0.098 ± 0.007
+AB-Serrated                         5.42        0.140 ± 0.004
+ABC                                 2.7         0.082 ± 0.010
+AB-Staggered (zigzag)               1.9         0.055 ± 0.009
+AB-Staggered (armchair)             2.0         0.073 ± 0.009
+AA-Eclipsed                         3.66        0.089 ± 0.012
+
+
+## Figure 5(c)
+
+Stacking                  GSA (m^2/g)        k_in-plane (W/m-K)
+----------------------------------------------------------------
+AA-Inclined                    6822          0.78  ± 0.05
+AB-Serrated                    6016          0.74  ± 0.05
+ABC                            4111          1.14  ± 0.055
+AB-Staggered (zigzag)         5932          0.87  ± 0.03
+AB-Staggered (armchair)       5213          1.02  ± 0.04
+AA-Eclipsed                    6633          0.689 ± 0.065
+
+
+## Figure 5(d)
+
+Stacking                  LPD (Å)            k_in-plane (W/m-K)
+----------------------------------------------------------------
+AA-Inclined                    26.3          0.78  ± 0.05
+AB-Serrated                    23.9          0.74  ± 0.05
+ABC                             8.3          1.14  ± 0.055
+AB-Staggered (zigzag)         11.9          0.87  ± 0.03
+AB-Staggered (armchair)       13.0          1.02  ± 0.04
+AA-Eclipsed                    27.7          0.689 ± 0.065
+
+
+## Figure 5(e)
+
+Stacking                  IBE (J/m^2)        k_cross-plane (W/m-K)
+------------------------------------------------------------------
+AA-Inclined                   -0.123         0.098 ± 0.007
+AB-Serrated                   -0.145         0.140 ± 0.004
+ABC                           -0.090         0.082 ± 0.010
+AB-Staggered (zigzag)         -0.065         0.055 ± 0.009
+AB-Staggered (armchair)       -0.068         0.073 ± 0.009
+AA-Eclipsed                   -0.115         0.089 ± 0.012
+
+
+## Figure 6(b)
+
+Stacking                  Δe (meV/atom)   Δe (kBT/atom)
+-------------------------------------------------------
+AA-Inclined                      0.29          0.012
+AB-Serrated                      0.45          0.017
+ABC                              0.50          0.019
+AB-Staggered (zigzag)            0.74          0.030
+AB-Staggered (armchair)          0.73          0.029
+AA-Eclipsed                      0.91          0.036
+
+
+## Figure 6(c) – In-plane k (Imine vs Dipole-aligned)
+
+Stacking                  k_in-plane (W/m-K)
+---------------------------------------------------------------
+                          Imine                    Dipole-aligned
+AA-Eclipsed               0.689 ± 0.06             0.66 ± 0.06
+AA-Inclined               0.78  ± 0.05             0.63 ± 0.03
+AB-Serrated               0.74  ± 0.05             0.76 ± 0.04
+AB-Staggered (zigzag)     0.87  ± 0.03             0.80 ± 0.02
+AB-Staggered (armchair)   1.02  ± 0.04             0.95 ± 0.04
+ABC                       1.14  ± 0.05             0.85 ± 0.04
+
+
+## Figure 6(d) – Cross-plane k (Imine vs Dipole-aligned)
+
+Stacking                  k_cross-plane (W/m-K)
+----------------------------------------------------------------
+                          Imine                    Dipole-aligned
+AA-Eclipsed               0.089 ± 0.006            0.098 ± 0.004
+AA-Inclined               0.098 ± 0.001            0.125 ± 0.003
+AB-Serrated               0.140 ± 0.001            0.175 ± 0.004
+AB-Staggered (zigzag)     0.055 ± 0.003            0.077 ± 0.002
+AB-Staggered (armchair)   0.073 ± 0.004            0.091 ± 0.005
+ABC                       0.082 ± 0.002            0.084 ± 0.001
 
 
 
 
-##Figure 3(b) [NOTE: Data for Figure 3(a) is inserted at the end]
 
-	k-in_plane (W/m-K)	k-cross_plane (W/m-K)
-AA-Inclined	0.78 ± 0.05   0.098 ± 0.007
-AB-Serrated	0.74 ± 0.05   0.14 ± 0.004
-ABC	1.14 ± 0.055   0.082 ± 0.01  
-AB-Staggered (zigzag)	0.87 ± 0.03  0.055 ± 0.009
-AB-Staggered (armchair)	1.02 ± 0.04  0.073 ± 0.009
-AA-Eclipsed	0.689 ± 0.065  0.089 ± 0.012
-
-
-
-
-##Figure 4(a)		
-
-	0 K (GPa)	300 K (GPa)
-AA-Inclined	13.2 9.5
-AB-Serrated	12.1 8.2
-ABC	22.5 18.2
-AB-Staggered (zigzag)	17.3 13.3
-AB-Staggered (armchair)	16.5 12.1
-AA-Eclipsed	10.1 6.6
-
-##Figure 4(b)		
-	0 K (GPa)	300 K (GPa)
-AA-Inclined	6.2 4.8
-AB-Serrated	6.6 5.4
-ABC	5.2 2.7
-AB-Staggered (zigzag)	4.3 2.0
-AB-Staggered (armchair)	4.2 2.0
-AA-Eclipsed	5.5 3.6
-
-
-
-
-
-##Figure 5(a)		
-	E-in_plane (GPa)	k-in_plane (W/m-K)
-AA-Inclined	9.5	0.78 ± 0.05
-AB-Serrated	8.2	0.74 ± 0.05
-ABC	18.2	1.14 ± 0.055
-AB-Staggered (zigzag)	12.1	0.87 ± 0.03
-AB-Staggered (armchair)	13	1.02 ± 0.04
-AA-Eclipsed	6.6	0.689 ± 0.065
-		
-		
-##Figure 5(b)		
-	E-cross_plane (GPa)	k-cross_plane (W/m-K)
-AA-Inclined	4.8	0.098 ± 0.007
-AB-Serrated	5.42	0.14 ± 0.004
-ABC	2.7	0.082 ± 0.01
-AB-Staggered (zigzag)	1.9	0.055 ± 0.009
-AB-Staggered (armchair)	2	0.073 ± 0.009
-AA-Eclipsed	3.66	0.089 ± 0.012
-		
-		
-##Figure 5(c)		
-	GSA (m^2/g)	k-in_plane (W/m-K)
-AA-Inclined	6822	0.78 ± 0.05
-AB-Serrated	6016	0.74 ± 0.05
-ABC	4111	1.14 ± 0.055
-AB-Staggered (zigzag)	5932	0.87 ± 0.03
-AB-Staggered (armchair)	5213	1.02 ± 0.04
-AA-Eclipsed	6633	0.689 ± 0.065
-		
-		
-##Figure 5(d)		
-	LPD (Å)	k-in_plane (W/m-K)
-AA-Inclined	26.3	0.78 ± 0.05
-AB-Serrated	23.9	0.74 ± 0.05
-ABC	8.3	1.14 ± 0.055
-AB-Staggered (zigzag)	11.9	0.87 ± 0.03
-AB-Staggered (armchair)	13	1.02 ± 0.04
-AA-Eclipsed	27.7	0.689 ± 0.065
-		
-		
-##Figure 5(e)		
-	IBE (J/m^2)	k-cross_plane (W/m-K)
-AA-Inclined	-0.123	0.098 ± 0.007
-AB-Serrated	-0.145	0.14 ± 0.004
-ABC	-0.09	0.082 ± 0.01
-AB-Staggered (zigzag)	-0.065	0.055 ± 0.009
-AB-Staggered (armchair)	-0.068	0.073 ± 0.009
-AA-Eclipsed	-0.115	0.089 ± 0.012
-
-
-
-
-##Figure 6(b)
-
-	Δe (meV/atom)	Δe (kBT/atom)
-AA-Inclined	0.29	0.012
-AB-Serrated	0.45	0.017
-ABC	0.50	0.019
-AB-Staggered (zigzag)	0.74	0.03
-AB-Staggered (armchair)	0.73	0.029
-AA-Eclipsed	0.91	0.036
-
-##Figure 6(c)
-Stacking order	AA-Eclipsed	AA-Inclined	AB-Serrated	AB-Staggered (Zigzag)	AB-Staggered (Armchair)	ABC
-Imine	0.689 ± 0.06	0.78 ± 0.05	0.74 ± 0.05	0.87 ± 0.03	1.02 ± 0.04	1.14 ± 0.05
-Dipole-aligned	0.66 ± 0.06	0.63 ± 0.03	0.76 ± 0.04	0.8 ± 0.02	0.95 ± 0.04	0.85  ± 0.04
-
-##Figure 6(d)
-Stacking order	AA-Eclipsed	AA-Inclined	AB-Serrated	AB-Staggered (Zigzag)	AB-Staggered (Armchair)	ABC
-Imine	0.089 ± 0.006	0.098 ± 0.001	0.14 ± 0.001	0.055 ± 0.003	0.073 ± 0.004	0.082 ± 0.002	
-Dipole-aligned	0.098 ± 0.004	0.125 ± 0.003	0.175 ± 0.004	0.077 ± 0.002	0.091 ± 0.005	0.084 ± 0.001
-
-
-
-
-
-
-##Figure 3(a)
+## Figure 3(a)
 kxx
+t_corr (ns)      k (W/m-K)
+--------------------------
 0.005 1.1162533
 0.01 1.1331573
 0.015 1.0023618
@@ -10137,6 +10165,8 @@ kxx
 
 
 kyy
+t_corr (ns)      k (W/m-K)
+------------------------
 0.005 1.0738841
 0.01 1.0787535
 0.015 0.9422843
@@ -20139,6 +20169,8 @@ kyy
 
 
 kzz
+t_corr (ns)      k (W/m-K)
+------------------------
 0.005 0.38936528
 0.01 0.38873977
 0.015 0.34298156
@@ -30138,5 +30170,6 @@ kzz
 49.985 0.16689345
 49.99 0.16657884
 49.995 0.16614868
+
 
 
