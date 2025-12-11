@@ -41,8 +41,8 @@ Stacking                  E (0 K, GPa)     E (300 K, GPa)
 AA-Inclined                    13.2              9.5
 AB-Serrated                    12.1              8.2
 ABC                            22.5             18.2
-AB-Staggered (zigzag)          17.3             13.3
-AB-Staggered (armchair)        16.5             12.1
+AB-Staggered (armchair)          17.3             13.3
+AB-Staggered (zigzag)        16.5             12.1
 AA-Eclipsed                    10.1              6.6
 
 
@@ -30170,6 +30170,7 @@ t_corr (ns)      k (W/m-K)
 49.985 0.16689345
 49.99 0.16657884
 49.995 0.16614868
+
 
 
 
