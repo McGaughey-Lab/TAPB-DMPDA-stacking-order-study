@@ -3,11 +3,11 @@
 Stacking                  Δe (meV/atom)   Δe (kBT/atom)
 -------------------------------------------------------
 AA-Inclined                     0.0            0.000
-AB-Serrated                     1.1            0.048
-ABC                             3.2            0.148
-AB-Staggered (zigzag)           5.3            0.220
-AB-Staggered (armchair)         6.0            0.232
-AA-Eclipsed                     8.8            0.352
+AB-Serrated                     1.1            0.044
+ABC                             3.8            0.148
+AB-Staggered (zigzag)           5.5            0.214
+AB-Staggered (armchair)         5.9            0.229
+AA-Eclipsed                     8.8            0.342
 
 
 ## Figure 2(a) – inset
@@ -17,9 +17,9 @@ Stacking                  Δe (meV/atom)   Offset (Å)
 AA-Eclipsed                     8.8            0.0
 AA-Inclined                     0.0            1.3
 AB-Serrated                     1.1            3.0
-AB-Staggered (armchair)         6.0           15.8
-AB-Staggered (zigzag)           5.3           17.0
-ABC                             3.2           19.1
+AB-Staggered (armchair)         5.9           15.8
+AB-Staggered (zigzag)           5.5           17.0
+ABC                             3.8           19.1
 
 
 ## Figure 3(b)
@@ -53,8 +53,8 @@ Stacking                  E (0 K, GPa)     E (300 K, GPa)
 AA-Inclined                     6.2              4.8
 AB-Serrated                     6.6              5.4
 ABC                             5.2              2.7
-AB-Staggered (zigzag)           4.3              1.9
-AB-Staggered (armchair)         4.2              2.0
+AB-Staggered (zigzag)           4.2              1.9
+AB-Staggered (armchair)         4.3              2.0
 AA-Eclipsed                     5.5              3.6
 
 
@@ -30170,6 +30170,7 @@ t_corr (ns)      k (W/m-K)
 49.985 0.16689345
 49.99 0.16657884
 49.995 0.16614868
+
 
 
 
